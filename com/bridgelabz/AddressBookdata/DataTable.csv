@@ -1,0 +1,4 @@
+id,first_name,last_name,address,city,state,zip,phone_Number,email_Id,contact_type_name
+1,Anil,pawar,,cidco,Aurangabad,431001,9534567890,anilp@gmail.com,Ravi
+2,Aniket,patil,,mumbai,Aurangabad,431001,9634567890,anilp@gmail.com,Sameer
+4,Dipak,pawar,,cidco,Aurangabad,431001,9834567890,anilp@gmail.com,seema
